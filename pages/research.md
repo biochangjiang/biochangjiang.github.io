@@ -3,7 +3,7 @@ layout: page
 title: Research Interests
 ---
 
-The Jiang Research Group has interests in the following areas,
+The Jiang Research Group has interests in the following areas:
 
 - Role and regulation of antioxidant enzyme systems in human cancers.
 
