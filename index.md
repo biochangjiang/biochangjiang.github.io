@@ -5,9 +5,8 @@ layout: page
 <!-- {% include JB/setup %} -->
 
 <br>
-<br>
 Chang Jiang, Ph.D. <br>
-<img style="float: right;width:120px;height:168px;" 
+<img style="float: right;width:120px;height:120px;" 
 src="/assets/themes/twitter/bootstrap/img/cj.jpg"> 
 Research Instructor<br>
 Department of Metabolism and Physiology <br>
