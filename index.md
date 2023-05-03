@@ -6,10 +6,10 @@ layout: page
 
 
 Chang Jiang, Ph.D. <br>
-<img style="float: right;width:120px;height:120px;" 
+<img style="float: right;width:120px;height:168px;" 
 src="/assets/themes/twitter/bootstrap/img/cj.jpg"> 
 Research Instructor<br>
-Department of Molecular Oncology <br>
+Department of Metabolism and Physiology <br>
 Moffitt Cancer Center <br>
 12902 Magnolia Dr, Tampa, FL 33612 USA <br>
 Email: chang dot jiang at moffitt dot org
