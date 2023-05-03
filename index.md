@@ -15,8 +15,8 @@ Moffitt Cancer Center <br>
 Email: chang dot jiang at moffitt dot org
 
 [Google
-Scholar](https://scholar.google.com/citations?user=yV9xcBwAAAAJ&hl=en)|
-[DeNicola Lab](https://labpages2.moffitt.org/denicola/people/)
+Scholar](https://scholar.google.com/citations?user=yV9xcBwAAAAJ&hl=en)
+| [DeNicola Lab](https://labpages2.moffitt.org/denicola/people/)
 
 
 ---
@@ -28,7 +28,7 @@ Supported by *National Cancer Institute* & *National Pancreas Foundation*.
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
-<li>The Jiang Lab is coming this September at Moffit Cancer Center,
+<li>Apr 2023 - The Jiang Lab is coming this September at Moffit Cancer Center,
 Tampa, Florida, USA.</li>
 
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publication List
 ---
 
 - Wang C, Liu X, Liang J, Narita Y, Ding W, Li D, Zhang L, Wang H, Leong
