@@ -7,7 +7,7 @@ layout: page
 <br>
 Chang Jiang, Ph.D. <br>
 <img style="float: right;width:120px;height:120px;" 
-src="/assets/themes/twitter/bootstrap/img/cj.jpg"> 
+src="/assets/themes/twitter/bootstrap/img/cj_s.jpg"> 
 Research Instructor<br>
 Department of Metabolism and Physiology <br>
 Moffitt Cancer Center <br>
@@ -28,7 +28,8 @@ Supported by *National Cancer Institute* & *National Pancreas Foundation*.
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
-<li>The Jiang Research Group is coming this September at Moffit Cancer Center.</li>
+<li>The Jiang Lab is coming this September at Moffit Cancer Center,
+Tampa, Florida, USA.</li>
 
 </div>
 
