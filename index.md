@@ -2,6 +2,11 @@
 layout: page
 ---
 
+{% include carousel.html height="300" unit="px" duration="7" %}
+<br>
+
+---
+
 <!-- {% include JB/setup %} -->
 
 <br>
