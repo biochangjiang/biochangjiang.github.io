@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% include carousel.html height="300" unit="px" duration="7" %}
+{% include carousel.html height="270" unit="px" duration="7" %}
 <br>
 
 ---
@@ -23,6 +23,14 @@ Email: chang dot jiang at moffitt dot org
 Scholar](https://scholar.google.com/citations?user=yV9xcBwAAAAJ&hl=en)
 | [DeNicola Lab](https://labpages2.moffitt.org/denicola/people/)
 
+
+B.S. in Bioengineering, Harbin Institute of Technology, Harbin, China <br>
+M.S. in Biomedical Engineering, Indiana University-Purdue University
+Indianapolis, Indianapolis IN <br>
+PhD in Bioengineering, University of Pittsburgh, Pittsburgh PA <br>
+2016-2018    Postdoc:  Brigham and Women’s Hospital, Harvard Medical
+School, Boston MA <br>
+2018-present Postdoc: H. Lee Moffitt Cancer Center and Research Institute, Tampa FL
 
 ---
 Supported by *National Cancer Institute* & *National Pancreas Foundation*.
