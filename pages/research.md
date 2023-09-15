@@ -3,14 +3,18 @@ layout: page
 title: Research Interests
 ---
 
-The Jiang Research Group has interests in the following areas:
 
-- Role and regulation of antioxidant enzyme systems in human cancers.
+Research in our lab sits at the interface of redox biology, metabolism
+and signaling, and focuses on understanding the role of antioxidant
+systems in oxidative stress response and cancer therapy resistance. We
+combine frontier molecular, genomic, metabolomic, and proteomic
+approaches to address these questions. We have interest in the
+following areas: 
 
-- Role and regulation of mitochondrial antioxidant enzyme systems in human cancers.
+- Role and regulation of mitochondrial antioxidant system in cancer cells.
 
-- Mitochondria and redox signaling crosstalk in human cancers.
+- Mitochondria and redox signaling crosstalk in cancer cells.
 
 - Redox vulnerabilities of human malignancies.
 
-- The impact of onco-viral infection (EBV and HPV) on redox regulation in human cancers.
+- The impact of onco-viral infection (EBV and HPV) on the redox status of cancer cells.
