@@ -40,8 +40,8 @@ Supported by *National Cancer Institute* & *National Pancreas Foundation*.
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
-<li>December 2023 - Our official lab page moved here: 
-[https://lab.moffitt.org/jiang](https://lab.moffitt.org/jiang)</li>
+<li>December 2023 - Our official lab page moved here:
+<a href="https://lab.moffitt.org/jiang/">https://lab.moffitt.org/jiang</a></li>
 
 <li>September 2023 - The Jiang Lab started.</li>
 
